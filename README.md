@@ -8,10 +8,12 @@ Estudio Ingeniería en Computación en ISJ
 Me gusta aprender cosas nuevas y mejorar mis conocimientos, tomar cualquier reto y vencerlo
 Hecho con ❤️ por Juan Carlos Nicolas Avila Padilla.<br>
 
-### Contacto
+<!-- ### Contacto -->
 
 <div>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=SuperbMarlin495&show_icons=true&theme=tokyonight">
+  <p>
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=SuperbMarlin495&show_icons=true&theme=tokyonight">
+  </p>
 </div>
 
 <div>
