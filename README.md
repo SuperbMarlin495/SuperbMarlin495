@@ -1,6 +1,6 @@
 # SuperbMarlin495
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperbMarlin495&langs_count=8&theme=tokyonight">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperbMarlin495&langs_count=15&theme=tokyonight">
 
 ### ✨Hola, soy Juan Carlos Nicolas Avila Padilla✨
 Estudio Ingeniería en Computación en ISJ
