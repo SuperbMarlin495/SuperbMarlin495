@@ -7,10 +7,19 @@ Estudio Ingeniería en Computación en ISJ
 
 Me gusta aprender cosas nuevas y mejorar mis conocimientos, tomar cualquier reto y vencerlo
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=SuperbMarlin495&show_icons=true&theme=tokyonight">
-
-
 ### Contacto
+
+<div>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SuperbMarlin495&show_icons=true&theme=tokyonight">
+</div>
+
+<footer>
+   <p align="center">
+      Hecho con ❤️ por Juan Carlos Nicolas Avila Padilla.<br>
+      <img align="right" src="https://github-profile-trophy.vercel.app/?username=SuperbMarlin495&theme=tokyonight
+      ">
+   </p>
+</footer>
 
 <!--[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SuperbMarlin495&count_private=true&theme=tokyonight&showicons=true)]() !-->
 
