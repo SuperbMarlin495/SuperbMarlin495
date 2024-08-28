@@ -7,7 +7,7 @@ Estudio Ingeniería en Computación en ISJ
 
 Me gusta aprender cosas nuevas y mejorar mis conocimientos, tomar cualquier reto y vencerlo
 
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SuperbMarlin495&show_icons=true&theme=tokyonight">
 
 
 ### Contacto
