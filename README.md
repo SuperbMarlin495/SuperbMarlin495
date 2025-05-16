@@ -3,7 +3,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperbMarlin495&langs_count=15&theme=tokyonight">
 
 ### ✨Hola, soy Juan Carlos Nicolas Avila Padilla✨
-Egresado en Ingenieria en sistemas computacionales
+Egresado de Ingenieria en sistemas computacionales
 
 Me gusta aprender cosas nuevas y mejorar mis conocimientos, tomar cualquier reto y vencerlo<br>
 Hecho con ❤️ por Juan Carlos Nicolas Avila Padilla.<br>
